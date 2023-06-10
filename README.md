@@ -1,11 +1,12 @@
 # Assignment_3
 # My Photography Portfolio
+# M.N. Rakshana Begum - ICT/19/20/018
 
-Welcome to my photography portfolio! This webpage showcases my photography work and provides information about my projects and achievements.
+Welcome to my photography portfolio! This webpage showcases my photography work.
 
 ## Theme
 
-The theme of this portfolio is centered around nature and landscapes. Through my photographs, I aim to capture the beauty of the natural world and convey a sense of wonder and serenity.
+The theme of this portfolio is centred around nature and landscapes. Through my photographs, I aim to capture the beautiful photographs.
 
 ## Additional Features
 
@@ -21,7 +22,5 @@ In addition to the standard portfolio layout, I have incorporated the following 
 ## Repository Link
 
 The repository for my portfolio webpage can be accessed at: [Repository Link](https://github.com/rakshana5511/Assignment_3.git)
-
-Please ensure that the repository is set to public or that appropriate access permissions are provided.
 
 Thank you for visiting my portfolio!
